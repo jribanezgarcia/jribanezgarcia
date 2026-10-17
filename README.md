@@ -2,7 +2,7 @@
 <h3 align="center">Programador en proceso · Estudiante de Desarrollo de Aplicaciones Multiplataforma</h3>
 
 <p align="center">
-  <img src="perfil-llaves.png" alt="Juan" width="300">
+  <img src="foto-pixel.jpg" alt="Juan" width="260">
 </p>
 
 ## Sobre mí
