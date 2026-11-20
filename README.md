@@ -7,9 +7,16 @@
 
 ## Sobre mí
 
-- 🎓 Estudiando DAM en el IES Al-Andalus
-- 💻 Ahora mismo con Java, JavaFX y Android
-- 🎯 Aprendiendo y construyendo mis primeros proyectos propios
+- 🎓 Técnico Superior en DAM en curso (IES Al-Andalus) · **1.º curso superado**
+- 💻 Ahora mismo con Java, JavaFX y Android (Kotlin)
+
+## Competencias acreditadas (1.º DAM)
+
+- 🖥️ **Sistemas informáticos** — instalación y configuración de sistemas operativos, gestión de usuarios y permisos, redes locales y scripting básico.
+- 🗄️ **Bases de datos** — diseño del modelo entidad-relación, normalización, SQL (DDL/DML), consultas complejas, vistas, procedimientos y triggers.
+- ☕ **Programación** — POO en Java: clases, herencia, polimorfismo, interfaces, excepciones, colecciones, ficheros y persistencia.
+- 🏷️ **Lenguajes de marcas y SGI** — HTML, CSS, XML/JSON, validación con DTD/XSD y transformación con XPath/XSLT.
+- 🛠️ **Entornos de desarrollo** — uso de IDE, depuración, pruebas unitarias (JUnit), refactorización, control de versiones con Git y diagramas UML.
 
 ## Tecnologías
 
