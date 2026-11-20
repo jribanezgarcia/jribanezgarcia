@@ -7,8 +7,8 @@
 
 ## Sobre mí
 
-- 🎓 Técnico Superior en DAM en curso (IES Al-Andalus) · **1.º curso superado**
-- 💻 Ahora mismo con Java, JavaFX y Android (Kotlin)
+- 🎓 Técnico Superior en DAM en proceso (IES Al-Andalus) · **1.º curso ✔**
+- 💻 Ahora mismo con Java, JavaFX y Java Móvil
 
 ## Competencias acreditadas (1.º DAM)
 
